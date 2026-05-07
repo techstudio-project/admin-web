@@ -1,1 +1,19 @@
-:root{font-family:"SF Pro Text",system-ui,-apple-system,sans-serif;color:#1d1d1f;background:#fff}*{box-sizing:border-box}body{margin:0}a{text-decoration:none;color:inherit}
+:root {
+  font-family:
+    'SF Pro Text',
+    system-ui,
+    -apple-system,
+    sans-serif;
+  color: #1d1d1f;
+  background: #fff;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
